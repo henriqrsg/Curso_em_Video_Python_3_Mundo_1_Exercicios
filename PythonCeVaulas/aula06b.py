@@ -1,0 +1,7 @@
+resposta = input('Digite qualquer coisa: ')
+print(resposta.isalpha())
+print(resposta.isnumeric())
+print(resposta.isalnum())
+print(resposta.isupper())
+print(resposta.islower())
+print(resposta.isspace())
